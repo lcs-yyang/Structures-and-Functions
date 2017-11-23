@@ -51,7 +51,7 @@ import Foundation
  
  Fill in the comment so it looks like this:
  
- ![Completed comment](example6.png "Completed comment")
+ ![Completed comment](example9.png "Completed comment")
  
  Now hold down the **Option** key on your keyboard, then click the *function name* for the **distance** function again.
  
